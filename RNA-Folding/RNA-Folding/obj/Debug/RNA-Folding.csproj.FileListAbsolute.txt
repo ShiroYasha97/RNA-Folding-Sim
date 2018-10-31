@@ -1,0 +1,17 @@
+C:\Users\Raymond\Documents\University\CPSC450\RNA-Folding\RNA-Folding\bin\Debug\RNA-Folding.exe.config
+C:\Users\Raymond\Documents\University\CPSC450\RNA-Folding\RNA-Folding\bin\Debug\RNA-Folding.exe
+C:\Users\Raymond\Documents\University\CPSC450\RNA-Folding\RNA-Folding\bin\Debug\RNA-Folding.pdb
+C:\Users\Raymond\Documents\University\CPSC450\RNA-Folding\RNA-Folding\obj\Debug\RNA-Folding.csprojResolveAssemblyReference.cache
+C:\Users\Raymond\Documents\University\CPSC450\RNA-Folding\RNA-Folding\obj\Debug\MainWindow.g.cs
+C:\Users\Raymond\Documents\University\CPSC450\RNA-Folding\RNA-Folding\obj\Debug\App.g.cs
+C:\Users\Raymond\Documents\University\CPSC450\RNA-Folding\RNA-Folding\obj\Debug\RNA-Folding_MarkupCompile.cache
+C:\Users\Raymond\Documents\University\CPSC450\RNA-Folding\RNA-Folding\obj\Debug\RNA-Folding_MarkupCompile.lref
+C:\Users\Raymond\Documents\University\CPSC450\RNA-Folding\RNA-Folding\obj\Debug\MainWindow.baml
+C:\Users\Raymond\Documents\University\CPSC450\RNA-Folding\RNA-Folding\obj\Debug\RNA-Folding.g.resources
+C:\Users\Raymond\Documents\University\CPSC450\RNA-Folding\RNA-Folding\obj\Debug\RNA_Folding.Properties.Resources.resources
+C:\Users\Raymond\Documents\University\CPSC450\RNA-Folding\RNA-Folding\obj\Debug\RNA-Folding.csproj.GenerateResource.Cache
+C:\Users\Raymond\Documents\University\CPSC450\RNA-Folding\RNA-Folding\obj\Debug\RNA-Folding.csproj.CoreCompileInputs.cache
+C:\Users\Raymond\Documents\University\CPSC450\RNA-Folding\RNA-Folding\obj\Debug\RNA-Folding.exe
+C:\Users\Raymond\Documents\University\CPSC450\RNA-Folding\RNA-Folding\obj\Debug\RNA-Folding.pdb
+C:\Users\Raymond\Documents\University\CPSC450\RNA-Folding\RNA-Folding\obj\Debug\DialogWindow.g.cs
+C:\Users\Raymond\Documents\University\CPSC450\RNA-Folding\RNA-Folding\obj\Debug\DialogWindow.baml
